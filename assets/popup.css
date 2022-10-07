@@ -1,0 +1,16 @@
+body {
+    overflow-x: hidden;
+    font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-size: 0.925rem; 
+    font-weight: normal;
+    line-height: 1.1875rem;
+    color: #0f1419;
+  }
+
+  body:not(.dialog) {
+    background-color:  #ffffff;
+  }
+
+  .bg-hover-gray:hover {
+    background-color: rgba(26, 26, 26, 0.15);
+  }
