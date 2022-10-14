@@ -2,7 +2,7 @@
   "name": "savetobin",
   "displayName": "saveToBin",
   "version": "0.1.2",
-  "description": "Hides all the @saveToNotion @readwise @memdotai @threadreaderapp tweets from your Twitter timeline",
+  "description": "Hide all the @saveToNotion @readwise @memdotai @threadreaderapp tweets from your Twitter timeline",
   "author": "kevin.antoine",
   "scripts": {
     "dev": "plasmo dev",
