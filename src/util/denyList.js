@@ -9,6 +9,7 @@ export const denyList = [
     '@readwise',
     '@RecuerdameBot',
     '@RemindMe_OfThis',
+    '@saveflix',
     '@SaveToBookmarks',
     '@SaveToNotiom',
     '@SaveToNotion',
